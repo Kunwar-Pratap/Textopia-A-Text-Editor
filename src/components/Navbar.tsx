@@ -10,8 +10,6 @@ import ThemeToggle from './ThemeToggle';
 
 const Navbar = () => {
     const pathname = usePathname()
-    console.log(pathname)
-
     interface ILink {
         id: number;
         label: string;
