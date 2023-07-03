@@ -20,7 +20,7 @@ Next.js 13.4.7 (App Router)<br>
 TypeScript<br>
 Tailwind<br>
 Next-Themes<br>
-Swiper<br>
+aSwiper<br>
 
 ## Icons
 React-Icons<br>
@@ -31,7 +31,11 @@ React-Icons<br>
 
 ![textopia2](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/751d214e-2966-41fc-a74d-11eae93929bb)
 
-![textopia7](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/10897272-5628-45db-9f4c-c0a891d14776)
+![texto1](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/74645238-4252-49b3-92e2-3d4e8b00bb19)
+
+![texto2](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/738bbe8a-8bd0-43b9-8a81-6e5f5a744bae)
+
+![texto3](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/3465544f-2a7c-4623-99d1-e7f74121bf03)
 
 ![textopia3](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/02ed8ccd-dd30-4d7b-a05b-4596f0212544)
 
