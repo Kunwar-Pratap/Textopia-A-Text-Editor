@@ -30,10 +30,10 @@ const Navbar = () => {
     return (
         <>
             <nav className='h-16 bg-zinc-300 dark:bg-stone-800 flex justify-around items-center sticky top-0 left-0 z-50'>
-                <div className='text-2xl font-bold text-neutral-800 dark:text-white font-mono'>
+                <div className='md:text-2xl text-xl font-bold text-neutral-800 dark:text-white font-mono'>
                     <Link href='/'>Textopia</Link>
                 </div>
-                <ul className='flex gap-14 items-center'>
+                <ul className='flex md:gap-14 gap-6 items-center'>
                     {links.map((link) => {
                         return (
                             <li key={link.id} className={`text-base font-medium capitalize ${(pathname === link.url) ? "text-emerald-600 dark:text-violet-600" : "text-neutral-700 dark:text-white hover:text-emerald-400 dark:hover:text-violet-400"}`}>

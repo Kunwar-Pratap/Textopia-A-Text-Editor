@@ -10,7 +10,9 @@ Clear text<br>
 Remove white-spaces<br>
 Word count<br>
 Character count<br>
+Text reading time<br>
 Alert<br>
+Mobile responsive<br>
 
 ## Technologies
 React<br>
