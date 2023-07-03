@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Textopia - A Text Editor
 
-## Getting Started
+## Features 
+Light mode<br>
+Dark mode<br>
+Text uppercase<br>
+Text lowercase<br>
+Copy text to the clipboard<br>
+Clear text<br>
+Remove white-spaces<br>
+Word count<br>
+Character count<br>
+Alert<br>
 
-First, run the development server:
+## Technologies
+React<br>
+Next.js 13.4.7 (App Router)<br>
+TypeScript<br>
+Tailwind<br>
+Next-Themes<br>
+Swiper<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Icons
+React-Icons<br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## SCREENSHOTS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![textopia5](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/3ee37149-56d4-433c-bab3-f3f1b014900a)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![textopia2](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/751d214e-2966-41fc-a74d-11eae93929bb)
 
-## Learn More
+![textopia7](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/10897272-5628-45db-9f4c-c0a891d14776)
 
-To learn more about Next.js, take a look at the following resources:
+![textopia3](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/02ed8ccd-dd30-4d7b-a05b-4596f0212544)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![textopia4](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/742a205d-335a-4d85-b1ea-235d80afa058)
