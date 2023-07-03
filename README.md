@@ -1,5 +1,8 @@
 # Textopia - A Text Editor
 
+## Live demo
+(https://textopia-git-master-kunwar-pratap.vercel.app/)
+
 ## Features 
 Light mode<br>
 Dark mode<br>
