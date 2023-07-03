@@ -27,16 +27,16 @@ React-Icons<br>
 
 ## SCREENSHOTS
 
-![textopia5](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/3ee37149-56d4-433c-bab3-f3f1b014900a)
+![textopia5](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/a3dcad5c-5e63-42c1-b9c9-58f1c46ff17b)
 
-![textopia2](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/751d214e-2966-41fc-a74d-11eae93929bb)
+![textopia2](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/042d0a41-928d-4187-a5b5-01f5d93c7cae)
 
-![texto1](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/74645238-4252-49b3-92e2-3d4e8b00bb19)
+![texto1](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/7a0471ea-c7ee-40a9-8915-e0c953baf6d3)
 
-![texto2](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/738bbe8a-8bd0-43b9-8a81-6e5f5a744bae)
+![texto2](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/3c8d4a7c-7be2-4c74-aa16-5fe95b163329)
 
-![texto3](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/3465544f-2a7c-4623-99d1-e7f74121bf03)
+![texto3](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/c6d2c526-587f-406c-a910-4a11ebfacb9f)
 
-![textopia3](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/02ed8ccd-dd30-4d7b-a05b-4596f0212544)
+![textopia3](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/99a52167-fcb5-40fc-ace5-b911198fcdf5)
 
-![textopia4](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/742a205d-335a-4d85-b1ea-235d80afa058)
+![textopia4](https://github.com/Kunwar-Pratap/Textopia-A-Text-Editor/assets/104005034/4db5e315-34fd-434a-a15f-49cdae0aef6a)
