@@ -13,20 +13,16 @@ export const metadata = {
   description: 'A Text Editor',
 }
 
-
-
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
-
   return (
     <html lang="en">
       <head>
         <link rel='icon' href='/apple-touch-icon.png' />
       </head>
-    
       <body className={inter.className}>
         <ThemeProv>
           <AlertProvider>

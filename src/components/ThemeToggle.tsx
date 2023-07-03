@@ -29,7 +29,7 @@ const ThemeToggle = () => {
                 <Button onClick={() => { setTheme('dark'); showAlert("success", "dark mode enabled") }} className="border border-gray-400 outline-none py-2 px-3 text-base rounded-md hover:bg-emerald-300 hover:border-emerald-400" ><MdDarkMode className='text-lg text-gray-900' title='Enable Dark Mode' /></Button>
             )
         }
-    };
+    }
     return (
         <>
             {themeChanger()}
