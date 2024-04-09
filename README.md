@@ -23,7 +23,7 @@ Next.js 13.4.7 (App Router)<br>
 TypeScript<br>
 Tailwind<br>
 Next-Themes<br>
-aSwiper<br>
+Swiper<br>
 
 ## Icons
 React-Icons<br>
